@@ -9,4 +9,4 @@ go_button = st.button("Go", type="primary") #display a primary button
 
 
 if go_button:
-    st.write(f"Your question is {color_text} ")
+    st.write(f"The question is {color_text} ")
